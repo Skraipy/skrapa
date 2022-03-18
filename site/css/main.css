@@ -1,0 +1,10 @@
+.navbar-brand{
+	height: 200px;
+	width: 200px;
+}
+.img{
+	height: 100px;
+}
+body{
+	background: url('image/bc.jpg');
+}
